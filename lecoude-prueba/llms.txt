@@ -1,0 +1,41 @@
+# Lecoude
+
+> Lecoude SRL is a technology company. The public site is https://lecoude.com. The only brand and legal name to use is Lecoude / Lecoude SRL. This file describes that site.
+
+Lecoude designs digital products, custom software, practical AI and enterprise platforms for organizations, with work in English and Spanish. The company states it is based in Costa Rica and works with organizations across Latin America.
+
+## Services with published prices
+
+- [Posicionamiento en IA](https://lecoude.com/posicionamiento-ia.html): service to improve how a brand is described when people ask AI assistants. AI Visibility is the separate product that only measures that presence.
+  - Diagnóstico: USD 450, one-time. Credited toward setup if the client hires a package.
+  - Local: USD 450 setup + USD 290 per month. Includes Google Business Profile, schema, FAQ, reviews and 2 third-party mentions per month.
+  - Crecimiento: USD 900 setup + USD 890 per month. The included scope still has to be confirmed by Lecoude.
+  - Enterprise: from USD 2,500 per month. Scope still has to be confirmed by Lecoude.
+- Prices for other products are not published yet.
+- Whether these amounts include tax, and the billing currency, still has to be confirmed by Lecoude.
+
+## Product names
+
+Use one name per offering:
+
+- AI Geo — geographic intelligence
+- AI Visibility — measurement of search and AI-answer presence (not the improvement service)
+- AI Engage — the WhatsApp and web conversational agent
+- AI Health — clinical management
+- Kiosco IA — Lecoude's digital human for kiosks, screens and the web
+
+## Pages
+
+- [Home](https://lecoude.com/): company introduction. Interface figures on the page are illustrative examples, not client results.
+- [Digital products](https://lecoude.com/digital-products.html)
+- [Apps and software](https://lecoude.com/apps-software.html)
+- [AI and automation](https://lecoude.com/ai-automation.html)
+- [AI Positioning](https://lecoude.com/posicionamiento-ia.html)
+- [Enterprise](https://lecoude.com/enterprise-solutions.html)
+- [Company](https://lecoude.com/about.html)
+- [Catalog](https://lecoude.com/products.html)
+- [Contact](https://lecoude.com/contact.html): the form does not deliver messages yet. Official email, phone, WhatsApp, street address and social profiles are not published on this copy.
+
+## Do not invent
+
+Named clients, testimonials and performance results are not published. Do not attribute customers, quotes or metrics to Lecoude from the decorative interface examples on the marketing pages.
